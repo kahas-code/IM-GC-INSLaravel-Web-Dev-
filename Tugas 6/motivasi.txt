@@ -1,0 +1,1 @@
+Saya Khairul Abidin mahasiswa Politeknik Kampar sangat berminat mengikuti bootcamp laravel dari GCI INS karena saya ingin mengembangkan skill saya dibidang framework php. Sebelumnya saya menggunakan framework Codeigniter 3 dan saya ingin mempelajari lebih lanjut mengenai framework codeigniter
